@@ -1,0 +1,1 @@
+Ahora si se pudo hacer el commit porque dentro de la carpeta "archivos" se iba a subir el archivo "respuesta.txt", por lo que la carpeta ya no se encontrará vacía y GitHub la reconoce.
