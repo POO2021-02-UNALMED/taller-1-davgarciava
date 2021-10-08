@@ -1,0 +1,3 @@
+Nombre=David Mateo;
+Edad=20;
+Aspiraciones=Aprender POO;
